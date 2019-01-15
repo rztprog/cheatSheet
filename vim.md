@@ -70,6 +70,14 @@
 |```ZQ```			| quit without saving (like :q!)
 |				|
 |```gg=G```			| Indent perfectly the page
+|				|
+|```qa```` 			|start recording (q) to register (a)
+|```...```			|now to the bottom you'll see ```@recording a``` and all on the keyboard was pressed is recorded
+|```q```			|stop recording
+|```@a```			|execute your macro
+|```@@```			|execute your macro again i
+|```10@a```			|execute 10 times the ```a``` macro
+
 
 ###> VISUAL MOD SHORTCUTS
 
