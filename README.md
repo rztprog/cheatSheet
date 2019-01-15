@@ -22,6 +22,7 @@
 
 * [GIT CHEAT SHEET](./git.md)
 
+---
 
 ## THANKS TO
 * [rolemodelu](http://rolemodelu.com) (cheatsheet logo)
