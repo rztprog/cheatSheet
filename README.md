@@ -3,6 +3,7 @@
 
 ## VIM
 ![vim logo](./img/vim.png)
+
 [vim.md](./vim.md)
 * [plug surround](./plug_surround.md)
 * [plug commentary](./plug_commentary.md)
@@ -10,12 +11,14 @@
 
 ## TERMINAL
 ![terminal logo](./img/terminal.png)
+
 [Terminal.md](./terminal.md)
 * [DocFzf](./docFzf.md)
 
 
 ## GIT
 ![git logo](./img/git.png)
+
 [git.md](./git.md)
 
 
