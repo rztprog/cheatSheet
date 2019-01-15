@@ -1,6 +1,6 @@
 # CHEATSHEET
 
-## VIM ![vim logo](./img/vim.png)
+![vim logo](./img/vim.png) ## VIM
 
 [VIM CHEAT SHEET](./vim.md)
 * [plug surround](./plug_surround.md)
@@ -9,13 +9,13 @@
 
 ## TERMINAL ![terminal logo](./img/terminal.png)
 
-[TERMINAL CHEAT SHEET](./terminal.md)
+* [TERMINAL CHEAT SHEET](./terminal.md)
 * [DocFzf](./docFzf.md)
 
 
 ## GIT ![git logo](./img/git.png)
 
-[GIT CHEAT SHEET](./git.md)
+* [GIT CHEAT SHEET](./git.md)
 
 
 ## THANKS TO
