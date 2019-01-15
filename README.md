@@ -1,5 +1,4 @@
 # CHEATSHEET
-![cheatsheet](./img/cheatsheet.svg)
 
 ## VIM
 ![vim logo](./img/vim.png)
