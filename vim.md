@@ -71,7 +71,7 @@
 |				|
 |```gg=G```			| Indent perfectly the page
 |				|
-|```qa```` 			|start recording (q) to register (a)
+|```qa``` 			|start recording (q) to register (a)
 |```...```			|now to the bottom you'll see ```@recording a``` and all on the keyboard was pressed is recorded
 |```q```			|stop recording
 |```@a```			|execute your macro
