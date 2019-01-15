@@ -93,11 +93,11 @@
 |:wq				| save & quit the file							| forcing command with "!" (:wq!)
 |:15				| move to line 15							| same to 15G (but with ENTER)
 |				|
-|:r "fichier"			| copy & past all of the file under the actual file
+|:r or :re + "file"		| copy & past all of the file under the actual file
 |:nohlsearch			| cancel the highlited text
 |				|
 |:PlugInstall			| open vimplug installer
 |:PlugClean			| to cleanup vimplug when a plugin is removed
 |				|
 |:s (search)			| you can do some tricks with ":s" like replacing some word/WORD by adding slash "/" -> exemple -> :s/word1/word2/g. if you want to replace all occurencies add a % before s -> exemple -> :%s/word1/word2/g | More information : [vim.wikia.com] (http://vim.wikia.com/wiki/Search_and_replace)
-|:vsp				| virtual split								| [CTRL+ww] for switch
+|:vsp				| virtual split								| [CTRL+ww] for switch between
