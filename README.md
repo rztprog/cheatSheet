@@ -1,7 +1,5 @@
 # CHEATSHEET
 
----
-
 ![vim logo](./img/vim.png)
 ## VIM
 
@@ -21,8 +19,6 @@
 ## GIT
 
 * [GIT CHEAT SHEET](./git.md)
-
----
 
 ## THANKS TO
 * [rolemodelu](http://rolemodelu.com) (cheatsheet logo)
