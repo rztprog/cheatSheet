@@ -12,11 +12,5 @@
 ## GIT
 * [GIT CHEAT SHEET](./git.md)
 
-## THANKS TO
-* [rolemodelu](http://rolemodelu.com) (cheatsheet logo)
-* [LO4D.com](lo4d.com) (vim logo)
-* [medium.freecodecamp.org](medium.freecodecamp.org/) (terminal logo)
-* [icons8.com](icons8.com) (git logo)
-
 ## LICENSE
 MIT
