@@ -1,4 +1,4 @@
-![commentarylogo](https://i.imgur.com/7MyX4eb.jpg) 
+![kyle_southpark_logo.gif](https://media.giphy.com/media/xTdy8n1oLK2clXista/giphy.gif)
 
 # COMMENTARY PLUGIN CHEAT SHEET
 
@@ -7,8 +7,6 @@
 * Gif was take with [Peek](https://github.com/phw/peek) PPA
 
 ## INSTALL-IT VIA [GITHUB](https://github.com/tpope/vim-commentary) OR [VIMAWESOME](https://vimawesome.com/plugin/commentary-vim)
-
-![kyle_southpark_logo.gif](https://media.giphy.com/media/xTdy8n1oLK2clXista/giphy.gif)
 
 **NOTE:** If your ***favorite file type isn't supported***, type this ***command below*** (you need to adjust ***commentstring***)
 
